@@ -249,3 +249,6 @@ emmake make
 mv libZydis.a libZydisWASM.a
 mv zycore/libZycore.a zycore/libZycoreWASM.a
 ```
+
+Credits : RealAlphabet
+Github : https://github.com/RealAlphabet
